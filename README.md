@@ -1,4 +1,4 @@
-# Desafio Automação para Ânima!
+# Automação para Ânima!
 
 Framework e ferramentas utilizadas para Automação de Testes:
 
